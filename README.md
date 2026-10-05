@@ -47,13 +47,10 @@ Make sure you have the required runtime/environment installed for your setup:
 
 ```text
 Inventory-Manager/
-├── src/
-│   ├── models/
-│   ├── controllers/
-│   └── views/
-├── data/
-├── .gitignore
-├── LICENSE
+├── InventorySystem2/
+│   ├── index.html/
+│   ├── script.js/
+│   └── style.css/
 └── README.md
 ```
 
